@@ -6,7 +6,7 @@
 
 
 
-**pip install -r requirements.txt**
+`**pip install -r requirements.txt**`
 
 `**python3 kro.py  list.xt**`
 
